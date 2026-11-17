@@ -3,7 +3,7 @@
   "channels": {
     "@AniOneAsia": {
       "id": "UC0wNSTMWIL3qaorLx0jie6A",
-      "last_seen": "jzrBVJ8OrPY",
+      "last_seen": "Zwy_QXcfakM",
       "title": "Ani-One Asia",
       "uploads": "UU0wNSTMWIL3qaorLx0jie6A"
     },
@@ -15,7 +15,7 @@
     },
     "@Crunchyroll": {
       "id": "UC6pGDc4bFGD1_36IKv3FnYg",
-      "last_seen": "VUQDkfAFS6I",
+      "last_seen": "v3TSoZXnW5I",
       "title": "Crunchyroll",
       "uploads": "UU6pGDc4bFGD1_36IKv3FnYg"
     },
@@ -27,13 +27,13 @@
     },
     "@MuseAsia": {
       "id": "UCGbshtvS9t-8CW11W7TooQg",
-      "last_seen": "_KpwHvLh5hI",
+      "last_seen": "TbQuwvFjaUI",
       "title": "Muse Asia",
       "uploads": "UUGbshtvS9t-8CW11W7TooQg"
     },
     "@NetflixAnime": {
       "id": "UCBSs9x2KzSLhyyA9IKyt4YA",
-      "last_seen": "_YmiBo3ppQE",
+      "last_seen": "9l33CiJufK4",
       "title": "Netflix Anime",
       "uploads": "UUBSs9x2KzSLhyyA9IKyt4YA"
     },
@@ -45,13 +45,13 @@
     },
     "@tohoanimation": {
       "id": "UC14Yc2Qv92DMuyNRlHvpo2Q",
-      "last_seen": "tnwzFgGE4sY",
+      "last_seen": "Bg6nVQ8EAVk",
       "title": "TOHO animation チャンネル",
       "uploads": "UU14Yc2Qv92DMuyNRlHvpo2Q"
     },
     "@vizmedia": {
       "id": "UCV1da9peoqEwqr45bpTJsbQ",
-      "last_seen": "tfcjj96Egaw",
+      "last_seen": "7GAzJyqLxbY",
       "title": "vizmedia",
       "uploads": "UUV1da9peoqEwqr45bpTJsbQ"
     }
@@ -70883,6 +70883,18 @@
       "score": 45,
       "title": "Charlotte English Trailer",
       "v": "6AgEzww-a0w"
+    },
+    "209980": {
+      "published": "2026-11-17T08:00:24Z",
+      "r": {
+        "b": [
+          "JP"
+        ]
+      },
+      "s": "museasia",
+      "score": 33,
+      "title": "《I Got a CHEAT SKILL in ANOTHER WORLD and Became UNRIVALED in the REAL WORLD, Too》 - Season 2 PV",
+      "v": "6WiVfdLPFtw"
     },
     "21": {
       "published": "2026-06-30T16:00:03Z",
