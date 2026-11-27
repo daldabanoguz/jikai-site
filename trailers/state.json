@@ -1,21 +1,21 @@
 {
-  "big_list_at": "2026-11-20T13:58:54+00:00",
+  "big_list_at": "2026-11-27T14:59:44+00:00",
   "channels": {
     "@AniOneAsia": {
       "id": "UC0wNSTMWIL3qaorLx0jie6A",
-      "last_seen": "XDgZ4ydFsus",
+      "last_seen": "JCvmxlbRMP4",
       "title": "Ani-One Asia",
       "uploads": "UU0wNSTMWIL3qaorLx0jie6A"
     },
     "@AniplexUSA": {
       "id": "UCDb0peSmF5rLX7BvuTcJfCw",
-      "last_seen": "Qf_hYBSZL0o",
+      "last_seen": "SkPtgysrhbU",
       "title": "Aniplex USA",
       "uploads": "UUDb0peSmF5rLX7BvuTcJfCw"
     },
     "@Crunchyroll": {
       "id": "UC6pGDc4bFGD1_36IKv3FnYg",
-      "last_seen": "03lsTVDqOmQ",
+      "last_seen": "XS0OkYJ9jbo",
       "title": "Crunchyroll",
       "uploads": "UU6pGDc4bFGD1_36IKv3FnYg"
     },
@@ -27,13 +27,13 @@
     },
     "@MuseAsia": {
       "id": "UCGbshtvS9t-8CW11W7TooQg",
-      "last_seen": "c1CHgjCdciI",
+      "last_seen": "Y_2K63U1um4",
       "title": "Muse Asia",
       "uploads": "UUGbshtvS9t-8CW11W7TooQg"
     },
     "@NetflixAnime": {
       "id": "UCBSs9x2KzSLhyyA9IKyt4YA",
-      "last_seen": "5q44e6xNDVw",
+      "last_seen": "luEo5nXuLVw",
       "title": "Netflix Anime",
       "uploads": "UUBSs9x2KzSLhyyA9IKyt4YA"
     },
@@ -45,13 +45,13 @@
     },
     "@tohoanimation": {
       "id": "UC14Yc2Qv92DMuyNRlHvpo2Q",
-      "last_seen": "dDX_KjBJ6PQ",
+      "last_seen": "sYCLSJiiZb0",
       "title": "TOHO animation チャンネル",
       "uploads": "UU14Yc2Qv92DMuyNRlHvpo2Q"
     },
     "@vizmedia": {
       "id": "UCV1da9peoqEwqr45bpTJsbQ",
-      "last_seen": "NYgSJnRJuiw",
+      "last_seen": "jG4M0sXZuD4",
       "title": "vizmedia",
       "uploads": "UUV1da9peoqEwqr45bpTJsbQ"
     }
@@ -56264,7 +56264,6 @@
           "OM",
           "PH",
           "QA",
-          "RU",
           "SA",
           "SD",
           "SG",
@@ -79722,5 +79721,5 @@
       "v": "HLrPyzmgPe8"
     }
   },
-  "verified_at": "2026-11-20T13:58:54+00:00"
+  "verified_at": "2026-11-27T14:59:44+00:00"
 }
